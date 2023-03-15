@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    font-family: lalezar;
+}
+
+@font-face{
+    font-family:'lalezar';
+    src : url('fonts/Lalezar-Regular.ttf') format(truetype);
+}
+
+.header{
+    height: 650px;
+    background-image: url('photos/niels-kehl-6hpbjaAubDc-unsplash%20(1).jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: gray;
+    text-align: center;
+}
+
+.navigationBar{
+    list-style: none;
+}
+
+ul li{
+    color: whitesmoke;
+    display: inline-block;
+    font-size: 20px;
+    margin: 60px 20px;
+}
+
+.title1{
+    margin-top: 80px;
+    color: whitesmoke;
+    font-size: 60px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+.orangeSpan{
+    color: darkorange;
+}
+
+.paragraph{
+    color: whitesmoke;
+    margin-right: 30px;
+    font-size: 18px;
+    border: 2px solid lightgray;
+    border-radius: 20px;
+    padding: 15px 65px;
+    display: inline-block;
+}
+
+

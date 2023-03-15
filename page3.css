@@ -1,0 +1,29 @@
+.container2{
+    height: 750px;
+    background-image: url(photos/photo_2022-06-27_11-28-46.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-color: slategrey;
+    background-blend-mode: multiply;
+    
+}
+
+.circle{
+    box-sizing: border-box;
+    margin-top: 50px;
+    width: 650px;
+    height: 650px;
+    display: inline-block;
+    border: 1px solid none;
+    border-radius: 50%;
+    color: whitesmoke;
+    background-color: rgba(128,128,128,.5);
+    padding: 80px;
+    
+}
+
+.aboutDesc{
+    text-align: justify;
+}

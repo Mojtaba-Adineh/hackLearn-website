@@ -1,0 +1,21 @@
+.footer{
+    height: 200px;
+    background-color: lightgray;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 40px;
+}
+
+.socialMedia{
+    height: 100px;
+    background-color: gray;
+    box-sizing: border-box;
+    padding: 17px;
+    
+}
+
+.socialImage{
+    
+    margin: 20px;
+}
+
